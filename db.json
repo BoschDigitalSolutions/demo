@@ -1,15 +1,18 @@
 {
     "ZF0e3idlwoep90widk": {
         "vin": "VP0ZZZ99ZTSB09A5",
+        "manufacturer": "Renault",
+        "model": "Zoe",
+        "date_of_production": "10/2017",
         "mileage": "9484",
         "soh": "98",
         "actual_capacity": "40.2",
         "charging_cycles": "33",
         "purchase_form": "Neukauf",
-        "warranty_start": "01.01.2019",
-        "warranty_end": "30.12.2021",
-        "date_certification": "28.08.2019",
-        "valid_until": "28.11.2019"
+        "warranty_start": "01/01/2019",
+        "warranty_end": "30/12/2021",
+        "date_certification": "28/08/2019",
+        "valid_until": "28/11/2019"
     },
     "wope3idlwo45363k": {
         "vin": "VP0ZZZ99ZTSB09A5",
@@ -18,10 +21,10 @@
         "actual_capacity": "35.2",
         "charging_cycles": "40",
         "purchase_form": "Occasion",
-        "warranty_start": "01.01.2015",
-        "warranty_end": "30.12.2017",
-        "date_certification": "17.07.2019",
-        "valid_until": "28.11.2023s"
+        "warranty_start": "01/01/2015",
+        "warranty_end": "30/12/2017",
+        "date_certification": "17/07/2019",
+        "valid_until": "28/11/2023"
     }
 
 }
