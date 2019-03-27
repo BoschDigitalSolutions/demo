@@ -17,9 +17,9 @@
     "wope3idlwo45363k": {
         "vin": "VP0ZZZ99ZTSB09A5",
         "mileage": ["15000","17000","18000","20450","23000","24400"],
-        "soh": "95",
-        "actual_capacity": "35.2",
-        "charging_cycles": "40",
+        "soh": ["98.1", NaN,"97.5","97.4","97.0","96.8"],
+        "actual_capacity": ["35.2", "35.0","34.8","34.3","33.6","33.5"],
+        "charging_cycles": ["40","45","51","62","68"]
         "purchase_form": "Occasion",
         "warranty_start": "01/01/2015",
         "warranty_end": "30/12/2017",
