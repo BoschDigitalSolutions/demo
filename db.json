@@ -4,7 +4,7 @@
         "manufacturer": "Renault",
         "model": "Zoe",
         "date_of_production": "10/2018",
-        "mileage": "24400",
+        "mileage": "",
         "soh": "96.8",
         "actual_capacity": "33.5",
         "charging_cycles":  "68",
