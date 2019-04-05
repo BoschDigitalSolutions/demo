@@ -29,7 +29,7 @@
     "Trli838dli3oeoex": {
         "vin": "VP0ZZZ99ZTSB09A5",
         "mileage": [{"date":"240219","value":"15000"},{"date":"240319","value":"18000"},{"date":"240419","value":"20450"},{"date":"240519","value":"23000"},{"date":"240619","value":"24450"}],
-        "soh": [{"date": "240219","value":"98.1"},{"date": "240219","value":"97.5"},{"date": "240219","value":"97.4"},{"date": "240219","value":"97.0"},{"date": "240219","value":"96.8"}],
+        "soh": [{"date":"240219","value":"98.1"},{"date":"240219","value":"97.5"},{"date":"240219","value":"97.4"},{"date":"240219","value":"97.0"},{"date":"240219","value":"96.8"}],
         "actual_capacity": ["35.2", "35.0","34.8","34.3","33.6","33.5"],
         "charging_cycles": ["40","45","51","62","68"],
         "purchase_form": "Occasion",
